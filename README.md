@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">
+  Hello there, I'm Lidiann!
+</h1>
 
-<!--
-**lidiann/lidiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I'm a Sophomore at Northwestern University double majoring in Mathematics and Computer Science.<br>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lidiann&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiann&layout=compact&theme=radical" alt="Your Top Languages" />
+</p>
+
+---
+
+### 💌 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lidiannspearsguerra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:lspearsguerra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
