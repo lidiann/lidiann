@@ -3,17 +3,7 @@
 </h1>
 
 <p align="center">
-  I'm a Sophomore at Northwestern University double majoring in Mathematics and Computer Science.<br>
-</p>
-
----
-
-### 🌟 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidiann&theme=radical" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lidiann&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiann&layout=compact&theme=radical" alt="Lidiann's Top Languages" />
+  I'm a Sophomore at Northwestern University pursuing a B.A. in both Mathematics and Computer Science.<br>
 </p>
 
 ---
@@ -28,4 +18,14 @@
   <a href="mailto:lspearsguerra@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 🌟 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidiann&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lidiann&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiann&layout=compact&theme=radical" alt="Lidiann's Top Languages" />
 </p>
