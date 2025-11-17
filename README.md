@@ -11,7 +11,7 @@
 ### 🌟 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lidiann&show_icons=true&theme=radical&include_all_commits=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lidiann&theme=radical" alt="GitHub Activity Graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidiann&layout=compact&theme=radical" alt="Lidiann's Top Languages" />
 </p>
 
