@@ -8,17 +8,14 @@
 
 ---
 
-### 💌 Connect with Me
+## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lidiannspearsguerra">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:lspearsguerra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+* **Portfolio:** Check out my website (still a work in progress! 🚧)
+    * [lidiannspears.vercel.app](https://lidiannspears.vercel.app/)
+* **LinkedIn:** Let's connect on
+    * [linkedin.com/in/lidiannspearsguerra](https://linkedin.com/in/lidiannspearsguerra)
+* **Email:** Feel free to reach out
+    * [lspearsguerra@gmail.com](mailto:lspearsguerra@gmail.com)
 
 ---
 
