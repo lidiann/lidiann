@@ -10,7 +10,7 @@
 
 ## 🤝 Connect With Me
 
-* **LinkedIn:** Let's connect on
+* **LinkedIn:** Let's connect at
     * [linkedin.com/in/lidiannspearsguerra](https://linkedin.com/in/lidiannspearsguerra)
-* **Email:** Feel free to reach out
+* **Email:** Feel free to reach out at
     * [lspearsguerra@gmail.com](mailto:lspearsguerra@gmail.com)
